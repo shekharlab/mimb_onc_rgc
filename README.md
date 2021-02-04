@@ -1,6 +1,6 @@
 # mimb_onc_rgc
 
-This repo contains all of the code used for the analysis in <MIMB chapter XX>. The files and their contents are as follows
+This repo contains all of the code used for the analysis in {MIMB chapter XX}. The files and their contents are as follows
   
   
   * `classifier_gen.py`: builds classifiers for RGC datasets at each time point
