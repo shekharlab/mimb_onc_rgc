@@ -1,3 +1,15 @@
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import scipy.stats as sp
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+
+import scanpy as sc
+sc.settings.verbosity = 3
+sc.settings.set_figure_params(dpi=80)
+
+
 def step2(adata):
     adata.obs['idx'] = np.arange(adata.shape[0])
 
