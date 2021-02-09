@@ -4,7 +4,8 @@ This repository contains all of the code used for the analysis in {MIMB chapter 
   
   
   * `classifier_gen.py`: builds classifiers for RGC datasets at each time point
-  * `step1.py`: mapping to t-1
+  * `step1.py`: mapping $t_n$ and $t_{n+1}$
+  * `step1_late.py`: for mapping 4d+
   * `step2.py`: neighbor voting
   * `vignette.ipynb`: sample walkthrough to show how all figures in the chapter were generated
 
