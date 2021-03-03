@@ -660,7 +660,7 @@ def nn_voting(adata):
 
     return adata
 
-#canpy's subsample function to sample w/replacement
+#adapt scanpy's subsample function to sample w/replacement
 def subsample(
     data: Union[AnnData, np.ndarray, spmatrix],
     fraction: Optional[float] = None,
