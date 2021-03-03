@@ -1,6 +1,6 @@
 # mimb_onc_rgc
 
-This repository contains all of the code used for the analysis in {MIMB chapter XX}. The files and their contents are as follows:
+This repository contains all of the code used for the analysis in {_MIMB_ chapter XX}. The files and their contents are as follows:
   
   
   * `iGraphBoost.py`: all functions associated with the iGraphBoost method.
