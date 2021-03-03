@@ -10,7 +10,6 @@ import seaborn as sns
 from sklearn.utils import shuffle, sparsefuncs
 import random
 
-import scipy.stats as sp
 import matplotlib as mpl
 from matplotlib import gridspec
 import xgboost as xgb
