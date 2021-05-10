@@ -4,7 +4,7 @@ This repository contains all of the code used for the analysis in **Defining sel
   
   
   * `iGraphBoost.py`: all functions associated with the iGraphBoost method.
-  * `vignette.ipynb`: a sample walkthrough to illustrate how all figures in the chapter were generated.
+  * `iGraphBoost_vignette.ipynb`: a sample walkthrough to illustrate how all figures in the chapter were generated.
 
 All datasets used in the chapter are available at https://drive.google.com/drive/folders/1AZJwImGoP1HTs7FwgDJIlgSrHitiuJpd?usp=sharing.
 
